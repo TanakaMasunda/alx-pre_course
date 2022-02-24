@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "ALX" >> alx
+<<<<<<< HEAD
+echo "School" >> school
+=======
+echo "The School is open"
+>>>>>>> update_script
